@@ -1,4 +1,4 @@
-var helper = require('../helper.js')
+var helper = require('./helper.js')
 var cheerio = require('cheerio');
 
 exports.food = function(req, res) {
